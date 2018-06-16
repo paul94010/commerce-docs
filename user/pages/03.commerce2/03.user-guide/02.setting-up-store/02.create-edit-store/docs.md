@@ -4,6 +4,9 @@ taxonomy:
     category: docs
 ---
 
+All Stores have a Store Type.  The Store Type specifies the data attributes that are carried with a Store.
+
+
 ![Store landing page](store-landing-page.png)
 
 Stores are used for invoicing, tax types, and any other settings necessary for understanding orders. This has many applications, and it's important to understand what use cases are supported out of the box and how that impacts checkout and other order workflows.
